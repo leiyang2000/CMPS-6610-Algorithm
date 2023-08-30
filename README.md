@@ -1,1 +1,1 @@
-# CPMS-6610-Algorithm
+# CMPS-6610-Algorithm
